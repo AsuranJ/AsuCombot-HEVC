@@ -49,9 +49,9 @@ A Telegram Video Compressor Bot By [@AbirHasan2005](https://t.me/linux_repo). **
 
 ### Public Commands:
 ```
-start - Start Bot
-compress - Compress Video
-help - How to Use Bot
+starts - Start Bot
+com - Compress Video
+helps - How to Use Bot
 ```
 
 ### Admin Commands:
